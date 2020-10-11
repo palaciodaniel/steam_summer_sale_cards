@@ -10,11 +10,11 @@ An interesting aspect of these transactions is that in specific occasions you ca
 <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80" width="500">
 </p>
 
-However, this is not as simple as it seems. It will require a lot of discipline and intelligence, and above all a lot of organization, because you have to keep in mind the prices for every single card and adjust them accordingly, so that you are able to sell them at a reasonable price.
+However, this is not as simple as it seems. It will require a lot of discipline and judgement, and above all a lot of organization, because you have to remember the prices for every single card and adjust them accordingly, so that you are able to sell them at a reasonable price.
 
 In this sense, a spreadsheet becomes incredibly helpful to keep a record of all the Trading Cards you have sold so far, and also to plan the next steps to sell the remaining ones in a way that benefits you. With these objectives in mind I created a spreadsheet for the situation, that you can quickly consult [on the following link](https://docs.google.com/spreadsheets/d/1wk9T-VuOcup3vXDjzZVZGmcSBZln6MbMGEs5X9TYHDY/edit?usp=sharing).
 
-It must be noted that as of the moment of writing these lines GitHub does not support spreadsheets, therefore the only way to view it is through the link I already provided. Still, it was a pragmatic decision to create a small repository for it, so that users are able to explore all my projects in a single place without unnecessary complications.
+It must be noted that as of the moment of writing these lines GitHub does not support spreadsheets, therefore the only way to view it is through the link I already provided. Still, it was a pragmatic decision to create a small repository for it, so that users are able to understand and explore all my projects in a single place without unnecessary complications.
 
 ## Credits
 
