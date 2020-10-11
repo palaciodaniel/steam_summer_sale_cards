@@ -1,4 +1,4 @@
-# Steam's 2020 Summer Sale - Sold Trading Cards
+# Steam's Summer Sale 2020 - Sold Trading Cards
 
 Approximately every six months, the immensely popular gaming platform [Steam](https://store.steampowered.com/) celebrates these massive sale events, where not only it is possible to buy games at a massive discount, but also it represents an excellent opportunity to sell Trading Cards to increase your account balance and be able to expand your collection with even more titles.
 
